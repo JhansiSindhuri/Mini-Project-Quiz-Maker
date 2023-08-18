@@ -1,0 +1,10 @@
+What is the capital of France?|Paris||1|Geography
+What is 2 + 2?|4||1|Math
+What is the largest planet in our solar system?|Jupiter||2|Science
+Which of these is a programming language?|Python,Java,Cucumber||2|Computer Science
+What is the chemical symbol for water?|H2O||2|Science
+Who wrote the play "Romeo and Juliet"?|William Shakespeare||3|Literature
+What is the national animal of India?|Tiger||1|Geography
+Who is the current President of the United States?|Joe Biden||2|Politics
+Which country is known as the Land of the Rising Sun?|Japan||1|Geography
+What is the largest ocean on Earth?|Pacific Ocean||1|Geography
